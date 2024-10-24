@@ -18,4 +18,6 @@
 - Q3. [Leetcode Kth largest element by min heap](https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/5962089/min-heap-solution-in-c)
 - Q4. [Complete Binary Tree on GFG](https://www.geeksforgeeks.org/problems/complete-binary-tree/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 - Q5. [is Binary Tree heap](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1)
+- Q6. [Merge two binary max heaps GFG](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1)
+- Q7. [Minimum cost of ropes GFG](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)
 - [Lecture 74 Love Babbar playlist -> Learnt about heaps, heapify, build_heap algo, heapSort](https://pastebin.com/dkhWMKFv)
