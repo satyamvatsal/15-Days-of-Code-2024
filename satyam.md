@@ -21,3 +21,4 @@
 - Q6. [Merge two binary max heaps GFG](https://www.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1)
 - Q7. [Minimum cost of ropes GFG](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)
 - [Lecture 74 Love Babbar playlist -> Learnt about heaps, heapify, build_heap algo, heapSort](https://pastebin.com/dkhWMKFv)
+- Gave Codeforces Round 981(div 3)
