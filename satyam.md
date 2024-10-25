@@ -22,3 +22,10 @@
 - Q7. [Minimum cost of ropes GFG](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)
 - [Lecture 74 Love Babbar playlist -> Learnt about heaps, heapify, build_heap algo, heapSort](https://pastebin.com/dkhWMKFv)
 - Gave Codeforces Round 981(div 3)
+
+
+### Day3
+
+- Q1. [Upsolved C problem of div3 round](https://codeforces.com/contest/2033/submission/287858636)
+-  Q2. [Upsolved D problem of div3 round](https://codeforces.com/contest/2033/submission/287864825)
+-  Q3. [Leetcode POTD](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/solutions/5965645/easy-sorting-solution)
