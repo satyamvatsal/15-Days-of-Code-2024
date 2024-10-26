@@ -11,7 +11,7 @@
 - Q4. [Solved Largest BST on GFG](https://pastebin.com/ADErzwUi)
 
 
-### Day2
+### Day 2
 
 - Q1. [CF -> Mathematical Problem](https://codeforces.com/contest/1986/submission/287617313)
 - Q2. [Leetcode POTD -> Flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees/solutions/5961445/easy-c-solution)
@@ -24,8 +24,15 @@
 - Gave Codeforces Round 981(div 3)
 
 
-### Day3
+### Day 3
 
 - Q1. [Upsolved C problem of div3 round](https://codeforces.com/contest/2033/submission/287858636)
 -  Q2. [Upsolved D problem of div3 round](https://codeforces.com/contest/2033/submission/287864825)
 -  Q3. [Leetcode POTD](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/solutions/5965645/easy-sorting-solution)
+
+### Day 4
+
+- [Learnt about inode data structure](https://en.wikipedia.org/wiki/Inode)
+- Q1. [Leetcode POTD](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/submissions/1434117415/?envType=daily-question&envId=2024-10-26)
+- Q2. [C. Contatenation of Array](https://codeforces.com/contest/2024/submission/288071014)
+- Q3. [Upsolved E. Sakurako, Kosuke, and the Permutation](https://codeforces.com/contest/2033/submission/288074693)
