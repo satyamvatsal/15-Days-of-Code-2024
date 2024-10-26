@@ -36,3 +36,4 @@
 - Q1. [Leetcode POTD](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/submissions/1434117415/?envType=daily-question&envId=2024-10-26)
 - Q2. [C. Contatenation of Array](https://codeforces.com/contest/2024/submission/288071014)
 - Q3. [Upsolved E. Sakurako, Kosuke, and the Permutation](https://codeforces.com/contest/2033/submission/288074693)
+- Gave Codeforces Round 982
