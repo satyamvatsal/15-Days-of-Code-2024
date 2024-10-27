@@ -42,4 +42,4 @@
 
 - [Leetcode POTD -> Count Square submatrices with all ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/solutions/5973839/easy-dp-solution)
 - [Upsolved B from Codeforces Round 982](https://codeforces.com/contest/2027/submission/288258621)
-- 
+- [Learnt about lambda functions in c++](https://www.geeksforgeeks.org/lambda-expression-in-c/)
