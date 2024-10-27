@@ -37,3 +37,9 @@
 - Q2. [C. Contatenation of Array](https://codeforces.com/contest/2024/submission/288071014)
 - Q3. [Upsolved E. Sakurako, Kosuke, and the Permutation](https://codeforces.com/contest/2033/submission/288074693)
 - Gave Codeforces Round 982
+
+### Day 5
+
+- [Leetcode POTD -> Count Square submatrices with all ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/solutions/5973839/easy-dp-solution)
+- [Upsolved B from Codeforces Round 982](https://codeforces.com/contest/2027/submission/288258621)
+- 
