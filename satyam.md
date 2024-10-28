@@ -43,3 +43,9 @@
 - [Leetcode POTD -> Count Square submatrices with all ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/solutions/5973839/easy-dp-solution)
 - [Upsolved B from Codeforces Round 982](https://codeforces.com/contest/2027/submission/288258621)
 - [Learnt about lambda functions in c++](https://www.geeksforgeeks.org/lambda-expression-in-c/)
+
+### Day 6
+
+- [Q1. A. Sliding](https://codeforces.com/contest/2035/submission/288432913)
+- [Q2. B. Everyone Loves Tres](https://codeforces.com/contest/2035/submission/288435342)
+- [Leetcode POTD](https://leetcode.com/problems/longest-square-streak-in-an-array/?envType=daily-question&envId=2024-10-28)
