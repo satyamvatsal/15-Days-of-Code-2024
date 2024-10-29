@@ -49,3 +49,11 @@
 - [Q1. A. Sliding](https://codeforces.com/contest/2035/submission/288432913)
 - [Q2. B. Everyone Loves Tres](https://codeforces.com/contest/2035/submission/288435342)
 - [Leetcode POTD](https://leetcode.com/problems/longest-square-streak-in-an-array/?envType=daily-question&envId=2024-10-28)
+- [Q3. BST to max heap GFG](https://www.geeksforgeeks.org/problems/bst-to-max-heap/1)
+- Completed Lecture 75 of Love Babbar playlist
+
+### Day 7
+
+- Q1. [Leetcode POTD](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/solutions/5981329/dp-solution-in-c)
+- Q2. [A. Perpendicular Segments](https://codeforces.com/contest/2026/submission/288701552)
+- Q3. [A. Cube Sorting](https://codeforces.com/contest/1420/submission/288681083)
