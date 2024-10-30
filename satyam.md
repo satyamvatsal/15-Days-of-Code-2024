@@ -57,3 +57,9 @@
 - Q1. [Leetcode POTD](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/solutions/5981329/dp-solution-in-c)
 - Q2. [A. Perpendicular Segments](https://codeforces.com/contest/2026/submission/288701552)
 - Q3. [A. Cube Sorting](https://codeforces.com/contest/1420/submission/288681083)
+
+### Day 8
+
+- [Q1. Leetcode POTD](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/submissions/1438012132)
+- [Q2. Longest decreasing subsequence](https://www.naukri.com/code360/problems/longest-decreasing-subsequence_800300?leftPanelTabValue=SUBMISSION)
+- [Q3. Black Cells CF](https://codeforces.com/contest/2026/submission/288880202)
