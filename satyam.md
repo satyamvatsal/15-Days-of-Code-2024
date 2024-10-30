@@ -63,3 +63,6 @@
 - [Q1. Leetcode POTD](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/submissions/1438012132)
 - [Q2. Longest decreasing subsequence](https://www.naukri.com/code360/problems/longest-decreasing-subsequence_800300?leftPanelTabValue=SUBMISSION)
 - [Q3. Black Cells CF](https://codeforces.com/contest/2026/submission/288880202)
+- [Q4. 3- Palindrome](https://codeforces.com/contest/805/submission/288883873)
+- [Q5. Unnatural Conditions](https://codeforces.com/contest/1028/submission/288887580)
+- [Q6. Grid Game](https://codeforces.com/problemset/submission/1103/288890667)
