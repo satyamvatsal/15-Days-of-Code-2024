@@ -66,3 +66,8 @@
 - [Q4. 3- Palindrome](https://codeforces.com/contest/805/submission/288883873)
 - [Q5. Unnatural Conditions](https://codeforces.com/contest/1028/submission/288887580)
 - [Q6. Grid Game](https://codeforces.com/problemset/submission/1103/288890667)
+
+### Day 9
+
+- [A. Even vs Odd divisors](https://www.codechef.com/viewsolution/1103019604)
+- Could not do much due to Diwali	
