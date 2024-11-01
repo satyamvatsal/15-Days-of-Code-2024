@@ -71,3 +71,11 @@
 
 - [A. Even vs Odd divisors](https://www.codechef.com/viewsolution/1103019604)
 - Could not do much due to Diwali	
+
+### Day 10
+
+- [Leetcode POTD](https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/1439683722/?envType=daily-question&envId=2024-11-01)
+- [B. Kar Salesman](https://codeforces.com/contest/2022/submission/289123336)
+- [Uploaded URL shortner project to github](https://github.com/satyamvatsal/URL-shortner/)
+- Learn about Sway WM
+- 
