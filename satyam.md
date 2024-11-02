@@ -83,4 +83,4 @@
 
 - [Leetcode POTD](https://leetcode.com/problems/circular-sentence/?envType=daily-question&envId=2024-11-02)
 - [A. Circuit](https://codeforces.com/contest/2032/submission/289441249)
-
+- Learnt about waybar
