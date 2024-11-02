@@ -78,4 +78,9 @@
 - [B. Kar Salesman](https://codeforces.com/contest/2022/submission/289123336)
 - [Uploaded URL shortner project to github](https://github.com/satyamvatsal/URL-shortner/)
 - Learn about Sway WM
-- 
+
+### Day 11
+
+- [Leetcode POTD](https://leetcode.com/problems/circular-sentence/?envType=daily-question&envId=2024-11-02)
+- [A. Circuit](https://codeforces.com/contest/2032/submission/289441249)
+
