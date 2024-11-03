@@ -84,3 +84,8 @@
 - [Leetcode POTD](https://leetcode.com/problems/circular-sentence/?envType=daily-question&envId=2024-11-02)
 - [A. Circuit](https://codeforces.com/contest/2032/submission/289441249)
 - Learnt about waybar
+
+### Day 12
+
+- [Leetcode POTD](https://leetcode.com/problems/rotate-string/solutions/5999882/easy-substring-method-on-string-in-c/)
+- Mostly i was travelling today so didn't able to do much
