@@ -89,3 +89,10 @@
 
 - [Leetcode POTD](https://leetcode.com/problems/rotate-string/solutions/5999882/easy-substring-method-on-string-in-c/)
 - Mostly i was travelling today so didn't able to do much
+
+### Day 13
+
+- [Leetcode POTD](https://leetcode.com/problems/string-compression-iii/submissions/1442718386/?envType=daily-question&envId=2024-11-04)
+- [C. Anya and 1100](https://codeforces.com/contest/2036/submission/289923551)
+- [B. Startup](https://codeforces.com/contest/2036/submission/289929169)
+- [B. Medians](https://codeforces.com/contest/2032/submission/289952981)
