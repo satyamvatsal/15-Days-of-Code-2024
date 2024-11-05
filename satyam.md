@@ -96,3 +96,9 @@
 - [C. Anya and 1100](https://codeforces.com/contest/2036/submission/289923551)
 - [B. Startup](https://codeforces.com/contest/2036/submission/289929169)
 - [B. Medians](https://codeforces.com/contest/2032/submission/289952981)
+
+### Day 14
+
+- [Leetcode POTD](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/submissions/1443833490/?envType=daily-question&envId=2024-11-05)
+- [C. Trinity](https://codeforces.com/contest/2032/submission/290101973)
+- 
