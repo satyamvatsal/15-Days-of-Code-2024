@@ -102,4 +102,10 @@
 - [Leetcode POTD](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/submissions/1443833490/?envType=daily-question&envId=2024-11-05)
 - [C. Trinity](https://codeforces.com/contest/2032/submission/290101973)
 - [D. I love 1543](https://codeforces.com/contest/2036/submission/290130771)
-- 
+
+### Day 15
+
+- [Leetcode POTD](https://leetcode.com/problems/find-if-array-can-be-sorted/description/?envType=daily-question&envId=2024-11-06)
+- [Xor Smaller](https://www.codechef.com/viewsolution/1104459841)
+- [Largest Subsequence](https://www.codechef.com/viewsolution/1104448305)
+- Gave Starters 159 contest
